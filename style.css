@@ -95,3 +95,8 @@ h3{
     border-image-slice: 1;
     border-radius: 8px;
 }
+footer p{
+    text-align: center;
+    color: black;
+    font-size: 15px;
+}
