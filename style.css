@@ -8,6 +8,9 @@ h1{
 .coloring{
     color: orange;
 }
+h2{
+    font-size: 35px;
+}
 p{
     font-weight: 400;
     color: gray;
@@ -28,6 +31,7 @@ p{
 }
 section{
     height: 500px;
+    padding-bottom: 10%;
 }
 .button-link{
     text-decoration: none;
@@ -41,4 +45,26 @@ section{
     background-color: royalblue;
     color: rgb(0, 0, 0);
     background-image: linear-gradient(45deg, lightblue, royalblue);
+}
+.dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+/* Facebook */
+#fa{
+    background-color:  #3B5998;
+    padding:10px;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+    border: 2px solid white;
+  }
+  #fa:hover{
+    background-color: royalblue;
+    color: rgb(0, 0, 0);
+    background-image: linear-gradient(45deg, lightblue, royalblue);
+  }
+.letter{
+    font-size: 25px;
 }
