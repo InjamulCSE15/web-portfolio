@@ -29,3 +29,16 @@ p{
 section{
     height: 500px;
 }
+.button-link{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato );
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+.button-link:hover{
+    background-color: royalblue;
+    color: rgb(0, 0, 0);
+    background-image: linear-gradient(45deg, lightblue, royalblue);
+}
