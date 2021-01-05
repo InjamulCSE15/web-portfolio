@@ -4,3 +4,20 @@ body{
 h1{
     font-size: 45px;
 }
+.coloring{
+    color: orange;
+}
+p{
+    font-weight: 400;
+    color: gray;
+    text-align: justify;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
